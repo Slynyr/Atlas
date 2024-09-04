@@ -17,7 +17,7 @@ This lab is a simple introduction to programming pin inputs and outputs for the 
 ## Wiring Diagram
 
 <p align="center">
-  <img src="/img/LAB-BasicIO.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/LAB-BasicIO.png" alt="PlatformIO Banner"/>
 </p>
 
 ## Code Solutions

@@ -18,7 +18,7 @@ This lab is a simple introduction to reading and outputting analog signals over 
 ## Wiring Diagram
 
 <p align="center">
-  <img src="/img/LAB-AnalogIO.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/LAB-AnalogIO.png" alt="PlatformIO Banner"/>
 </p>
 
 ## Code Solutions

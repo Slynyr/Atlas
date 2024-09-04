@@ -18,20 +18,20 @@ import TabItem from '@theme/TabItem';
 
 ## Wiring Diagram
 <p align="center">
-  <img src="/img/LAB-BasicIO.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/LAB-BasicIO.png" alt="PlatformIO Banner"/>
 </p>
 
 ## Implementing RemoteXY
 ### Creating Interface
 Navigate to the RemoteXY website and open the editor. Once you are in the editor, you will be presented with a variety of different types of controls, sensors, and indicators. For the purposes of this example, you only need a way of toggling the LED. In order to do so, drag a switch from the Elements panel to the smartphone. The arrangement of widgets/elements will be reflected on your smartphone as displayed in the editor. 
 <p align="center">
-  <img src="/img/RemoteXYElements.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/RemoteXYElements.png" alt="PlatformIO Banner"/>
 </p>
 
 ### Configuring Element and Generating Code
 Once you have placed an element on the screen, you can edit its properties on the right-hand side of the editor. While there are many different properties you can edit such as style, color, captions, etc, the most important of all is ```Variable (C++ rules):```. This is the variable to which the value/state of your widget/element will be written to. Once you have finished editing, you can generate the code by clicking the ```Get source code``` button on the top right. 
 <p align="center">
-  <img src="/img/RemoteXYCode.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/RemoteXYCode.png" alt="PlatformIO Banner"/>
 </p>
 
 ### Implementing Code

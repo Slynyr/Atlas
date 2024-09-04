@@ -8,7 +8,7 @@ PlatformIO is an open-source ecosystem for embedded development that supports va
 
 
 <p align="center">
-  <img src="/img/platformIOBanner.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/platformIOBanner.png" alt="PlatformIO Banner"/>
 </p>
 
 

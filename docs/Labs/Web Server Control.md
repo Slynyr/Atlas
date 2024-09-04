@@ -14,7 +14,7 @@ One neat feature that is enabled by the ESP32's ability to host and connect to W
 
 ## Wiring Diagram
 <p align="center">
-  <img src="/img/LAB-BasicIO.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/LAB-BasicIO.png" alt="PlatformIO Banner"/>
 </p>
 
 ## Code Solutions
