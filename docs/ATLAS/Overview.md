@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 <p style={{ textAlign: 'center' }}>
   <img 
-    src="/img/atlas_banner.png" 
+    src="/Atlas/img/atlas_banner.png" 
     alt="PlatformIO Banner" 
     style={{ 
       width: '80%', 
