@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 742.82 414.24">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .15em;
+      }
+
+      .cls-2 {
+        letter-spacing: .18em;
+      }
+
+      .cls-3 {
+        font-family: ModernAge, 'Modern Age';
+        font-size: 130px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #6c69a0;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-6 {
+        letter-spacing: .13em;
+      }
+
+      .cls-7 {
+        letter-spacing: .11em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <polygon class="cls-4" points="371.41 0 210.94 248.06 355.29 248.06 281.36 210.57 371.41 70.07 371.41 0"/>
+    <polygon class="cls-4" points="377.19 0 537.66 248.06 393.31 248.06 467.23 210.57 377.19 70.07 377.19 0"/>
+    <polygon class="cls-4" points="374.21 98.28 374.21 145.23 331.29 176.06 374.21 98.28"/>
+    <polygon class="cls-4" points="374.21 98.28 374.21 145.23 417.13 176.06 374.21 98.28"/>
+    <text class="cls-3" transform="translate(135.41 381.74)"><tspan class="cls-5" x="0" y="0">A</tspan><tspan class="cls-2" x="99.23" y="0">T</tspan><tspan class="cls-6" x="195.15" y="0">L</tspan><tspan class="cls-7" x="277.3" y="0">A</tspan><tspan class="cls-1" x="397.6" y="0">S</tspan></text>
+  </g>
+</svg>

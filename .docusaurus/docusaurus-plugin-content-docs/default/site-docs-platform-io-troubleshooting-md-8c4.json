@@ -1,0 +1,27 @@
+{
+  "id": "PlatformIO/Troubleshooting",
+  "title": "Troubleshooting",
+  "description": "Function Not Declared in Scope",
+  "source": "@site/docs/PlatformIO/Troubleshooting.md",
+  "sourceDirName": "PlatformIO",
+  "slug": "/PlatformIO/Troubleshooting",
+  "permalink": "/atlas/docs/PlatformIO/Troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/PlatformIO/Troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Libraries",
+    "permalink": "/atlas/docs/PlatformIO/Libraries"
+  },
+  "next": {
+    "title": "Basic IO",
+    "permalink": "/atlas/docs/Labs/Basic IO"
+  }
+}
