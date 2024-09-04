@@ -6,11 +6,11 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 ## What are header files?
-In C and C++, header files are files that contain declarations of functions, variables, constants, and data types. Header files allow for the usage of methods and variables from external C++ files. When it comes to organizing big projects, header files can come in handy in keeping your codebase organized and clean. 
+In C and C++, header files are files that contain declarations of functions, variables, constants, macros, and data types. They serve as an interface between different parts of a program, allowing functions and variables defined in one file to be accessed in another. Header files are particularly useful for organizing large projects, as they help keep the codebase modular and maintainable by separating declarations from the actual implementation.
 
 ## Using Header files
 ### File Structure
-Below is an example of what a typical project file structure would look like, containing a header file for randomizer.cpp. In this situation, there are methods we want to use from randomizer.cpp in main.cpp and in order to do so, you would need to create a header file for randomizer.cpp. When creating header files, ensure that they have the same name as the C++ script they are storing declarations for (```randomizer.cpp``` | ```randomizer.h```).
+Below is an example of what a typical project file structure would look like, containing a header file for randomizer.cpp. In this situation, there are functions we want to use from randomizer.cpp in main.cpp and in order to do so, you would need to create a header file for randomizer.cpp. When creating header files, ensure that they have the same name as the C++ script they are storing declarations for (```randomizer.cpp``` | ```randomizer.h```).
 
 ```
 ProjectName/
@@ -45,7 +45,7 @@ ProjectName/
 </Tabs>
 
 ### Importing and Utilizing Header File 
-Now that a header file for randomizer.cpp has been created, you will be able to access ```int getRandomNumber(min, max)``` by simply importing the header file wherever you need the method. As shown in the example below, the header is imported in main, allowing for the method to be called in order to generate a random number
+Now that a header file for randomizer.cpp has been created, you will be able to access ```int getRandomNumber(min, max)``` by simply importing the header file wherever you need the function. As shown in the example below, the header is imported in main, allowing for the function to be called without it being declared in the same script. 
 
 ```cpp
 #include <Arduino.h>
