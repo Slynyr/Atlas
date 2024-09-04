@@ -7,13 +7,13 @@ const config = {
   tagline: 'Microcontrollers are cool',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://slynyr.github.io',
   baseUrl: '/',
 
-  organizationName: '</> Slynyr',
-  projectName: 'TEJ-Resources',
+  organizationName: 'Slynyr',
+  projectName: 'Atlas',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
