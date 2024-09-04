@@ -12,6 +12,8 @@ const config = {
 
   organizationName: 'Slynyr',
   projectName: 'Atlas',
+  deploymentBranch: 'deployment',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
