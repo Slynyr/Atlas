@@ -1,0 +1,26 @@
+---
+sidebar_position: 2
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+## Overview
+
+## Objectives
+
+## Wiring Diagram
+
+## Code Solutions
+<Tabs>
+    <TabItem value="basic" label="Basic" default>
+        ```
+        Hello World!
+        ```
+    </TabItem>
+    <TabItem value="advanced" label="Advanced" default>
+        ```
+        Hello World!
+        ```
+    </TabItem>
+</Tabs>
