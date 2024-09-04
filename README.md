@@ -1,41 +1,22 @@
-# Website
+<p style={{ textAlign: 'center' }}>
+  <img 
+    src="static/img/atlas_banner.png" 
+    alt="Atlas Banner" 
+    style={{ 
+      width: '80%', 
+      maxWidth: '80%', 
+      height: 'auto' 
+    }} 
+  />
+</p>
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+# Atlas
 
-```
-$ yarn
-```
+### Overview
 
-### Local Development
+[Atlas](https://slynyr.github.io/Atlas/) is an open-source resource designed to allow students in the TEJ 3M/4M curriculum to explore, learn, and develop programming skills for ESP32 microcontrollers using the PlatformIO development framework. Atlas is comprised of 4 chapters, each of which have been carefully constructed in a way that should be easily approachable to students which may be new to different concepts.
 
-```
-$ yarn start
-```
+### Contributing
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=Slynyr yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you have knowledge or experience you'd like to share, we encourage you to contribute to this resource. Your contributions will benefit not only your peers but also future students who rely on Atlas as a learning tool. Whether you have improvements, new content, or corrections, we appreciate your willingness to help make this resource even better. Find out more about how you can contribute [here](https://slynyr.github.io/Atlas/docs/ATLAS/Contributing). 
