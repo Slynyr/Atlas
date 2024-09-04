@@ -16,13 +16,13 @@ Please note that sometimes you may get an error when attempting to open the Plat
 
 
 <p align="center">
-  <img src="/img/install_cmdpalette.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/install_cmdpalette.png" alt="PlatformIO Banner"/>
 </p>
 
 Now, you can create a new project by clicking the appropriately labeled ```New Project``` button. Pick a project name and Make sure to select the appropriate board type. If you are using an ESP32, simply check the metal housing for the part number **(e.g. Wroom32/S3/C3)**. If you are using a devkit, try to use the devkit part number instead if available. When picking a framework you will likely be provided with several options. Assuming you are working with an ESP32, you will have to pick between Espidf and Arduino. While Espidf provides you with lower level access to the chip, it requires a deeper understanding of c++. For most projects, the Arduino framework is your best pick. If you are using github for your project, make sure to untick the “use default location” checkbox and appropriately select your repository folder for generating your project. Once all the fields are filled in you can proceed to generating your project. 
 
 <p align="center">
-  <img src="/img/install_createProject.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/install_createProject.png" alt="PlatformIO Banner"/>
 </p>
 
 # File Hierarchy
@@ -39,7 +39,7 @@ Project Name
 Unlike Arduino IDE, the Build, Deploy, and Serial Monitor buttons are located on the bottom left as shown below. Once the terminal is open, you can also access the Serial monitor from the terminal pane. 
 
 <p align="center">
-  <img src="/img/install_serial.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/install_serial.png" alt="PlatformIO Banner"/>
 </p>
 
 

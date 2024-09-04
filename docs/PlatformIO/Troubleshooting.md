@@ -109,7 +109,7 @@ When using ESP32s and many other MCUs, at times you may find that you are unable
 On your ESP32 devkit, you should see 2 buttons. ```Boot``` and ```Reset/Enable```. Firmly hold the ```Boot``` button for a few seconds and then while still holding the ```Boot``` button, click the ```Reset/Enable``` button. You may then release all buttons and upload  your code. If this doesn't work, you can also try to not release the ```Boot``` button after clicking ```Reset/Enable``` until the upload begins. 
 
 <p align="center">
-  <img src="/img/Interrupt_ESP32.png" alt="PlatformIO Banner"/>
+  <img src="/Atlas/img/Interrupt_ESP32.png" alt="PlatformIO Banner"/>
 </p>
 
 :::note
