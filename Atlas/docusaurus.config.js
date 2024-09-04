@@ -7,8 +7,8 @@ const config = {
   tagline: 'Microcontrollers are cool',
   favicon: 'img/favicon.ico',
 
-  url: 'https://slynyr.github.io',
-  baseUrl: '/',
+  url: 'https://github.com',
+  baseUrl: '/atlas/',
 
   organizationName: 'Slynyr',
   projectName: 'Atlas',
