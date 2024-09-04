@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://github.com',
-  baseUrl: '/atlas/',
+  baseUrl: '/Atlas/',
 
   organizationName: 'Slynyr',
   projectName: 'Atlas',
