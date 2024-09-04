@@ -77,7 +77,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/Slynyr',
+            href: 'https://github.com/Slynyr/Atlas',
             label: 'GitHub',
             position: 'right',
           },
@@ -125,7 +125,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Slynyr/Atlas',
               },
             ],
           },
