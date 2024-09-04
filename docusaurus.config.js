@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'ATLAS',
   tagline: 'Microcontrollers are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
   url: 'https://github.com',
   baseUrl: '/Atlas/',
