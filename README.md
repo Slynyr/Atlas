@@ -12,7 +12,7 @@
 
 ## Overview
 
-[Atlas](https://slynyr.github.io/Atlas/) is an open-source resource designed to allow students in the TEJ 3M/4M curriculum to explore, learn, and develop programming skills for ESP32 microcontrollers using the PlatformIO development framework. Atlass comprised of 4 chapters, each of which have been carefully constructed in a way that should be easily approachable to students which may be new to different concepts.
+[Atlas](https://slynyr.github.io/Atlas/) is an open-source resource designed to allow students in the TEJ 3M/4M curriculum to explore, learn, and develop programming skills for ESP32 microcontrollers using the PlatformIO development framework. Atlas comprised of 4 chapters, each of which have been carefully constructed in a way that should be easily approachable to students which may be new to different concepts.
 
 ## Contributing
 
