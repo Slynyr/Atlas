@@ -4,7 +4,6 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import Typed from 'typed.js';
 import '../css/atlas-home-page.css';
-import GitHubIcon from '@site/static/img/github-mark-white.svg';
 
 function CustomHomepage() {
   const typedRef = useRef(null);
@@ -32,11 +31,11 @@ function CustomHomepage() {
           <h1><span ref={typedRef} className="auto-type"></span></h1>
           <h1 id="introductory-resource" className="bottom-text">An introductory resource to MCU programming with PlatformIO</h1>
           <div className="button-container">
-            <Link to="/docs/intro" className="custom-button primary-button">
+            <Link to="/docs/ATLAS/Overview" className="custom-button primary-button">
               Get Started
             </Link>
-            <Link to="/docs/category/labs" className="custom-button secondary-button github-button">
-              <GitHubIcon className="button-icon" />
+            <Link to="https://github.com/Slynyr/Atlas" className="custom-button secondary-button github-button">
+              <img src="/Atlas/img/github-mark-white.svg" alt="GitHub" className="button-icon" />
               Github
             </Link>
           </div>

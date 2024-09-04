@@ -10,7 +10,7 @@ Being an open-source resource, Atlas is designed to help students in electrical 
 ## How to Contribute
 
 ### 1. Fork the Repository
-In order to start contributing, you will first need to fork the repository. You can find the Atlas repository [here](github.com) or by clicking the github link present at the top right of the page. Once you have created your fork, you can begin working on your changes and additions! 
+In order to start contributing, you will first need to fork the repository. You can find the Atlas repository [here](https://github.com/Slynyr/Atlas) or by clicking the github link present at the top right of the page. Once you have created your fork, you can begin working on your changes and additions! 
 
 ### 2. Add your changes
 Atlas is made using a static site generator called [Docusaurus](https://docusaurus.io) which is made by Facebook. Creating and editing pages is simple and straightforward given fact that Docusaurus is powered by markdown. More information on how Docusaurus works can be found [here](https://docusaurus.io/docs).

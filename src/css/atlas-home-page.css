@@ -108,7 +108,7 @@
 }
 
 .custom-homepage-wrapper .primary-button:hover {
-    background-color: #27263b;
+    background-color: #6d6c86;
     color: #fff;
 }
 
@@ -118,8 +118,8 @@
 }
 
 .custom-homepage-wrapper .secondary-button:hover {
-    background-color: #ffffff;
-    color: #1b1b1d;
+    background-color: #40464b;
+    color: #fff;
 }
 
 /* GITHUB BUTTON */
@@ -134,11 +134,17 @@
     width: 20px;
     height: 20px;
     margin-right: 8px;
-    display: inline-block;
-    overflow: hidden;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
 .custom-homepage-wrapper .github-button .button-icon {
     fill: currentColor;
+}
+
+.custom-homepage-wrapper .github-button .button-icon svg {
+    width: 100%;
+    height: 100%;
 }
 
 @media (max-width: 850px) {
